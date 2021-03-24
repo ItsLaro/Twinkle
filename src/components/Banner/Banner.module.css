@@ -1,0 +1,11 @@
+*{
+    color: rgb(255, 255, 255);
+}
+
+.splash {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+  
