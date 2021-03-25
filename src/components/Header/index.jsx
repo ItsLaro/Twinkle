@@ -1,9 +1,11 @@
 import React from "react";
+import Logo from "./Greek-Logo.png"
+import styles from  "./Header.module.css"
 
 function Header() {
   return (
     <header>
-      <h1>Upsilon Pi Epsilon</h1>
+      <img src={Logo} alt="Upsilon Pi Epsilon"/>
     </header>
   );
 }

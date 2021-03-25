@@ -5,13 +5,9 @@
   }
   html {
     font-family: 'Poppins', sans-serif;}
-  body {
-    background-image: linear-gradient(to right, #f5d313 , #FF9749);
-    padding: 0 16px;
-  }
   
   footer {
-    position: absolute;
+    position: fixed;
     text-align: center;
     bottom: 0;
     width: 100%;
