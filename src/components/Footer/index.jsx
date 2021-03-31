@@ -6,9 +6,7 @@ function Footer() {
   const year = new Date().getFullYear();
   return (
     <div>
-      <div className={styles.wave}>
-        <img src={Wave} />
-      </div>
+      <img className={styles.wave} src={Wave} />
       <footer>
         <p>Copyright ⓒ {year}</p>
       </footer>

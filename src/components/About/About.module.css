@@ -1,0 +1,53 @@
+.sectionContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+}
+
+.sectionSideContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.textContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 60vh;
+    padding: 0px 32px;
+    font-family: ‘Poppins’, sans-serif;
+    line-height: 1.1em;
+    letter-spacing: 1px;
+    text-transform: none;
+
+}
+
+.imageContainer {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    vertical-align: baseline;
+}
+
+.splash {
+    margin-left: auto;
+    margin-right: auto;
+    width: 60em;
+    max-width: 80%;
+}
+
+.buttonsContainer {
+    display: flex;
+    justify-content: center;
+}
+
+.bodyButton {
+    width: 10em;
+    color: white;
+    margin: 32px;
+    background-image: linear-gradient(90deg, #fdcf0c, #f89b21);
+}

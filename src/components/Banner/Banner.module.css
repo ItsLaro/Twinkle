@@ -46,6 +46,7 @@
     pointer-events: none;
     user-select: none;
     flex-grow: 10;
+    margin-top: -30px;
 }
 
 .imageContainer {
@@ -69,6 +70,10 @@
     vertical-align: baseline;
     width: 36em;
     min-width: 36em;
+}
+
+button {
+    font-family: ‘Poppins’, sans-serif;
 }
 
 .buttonsContainer {
