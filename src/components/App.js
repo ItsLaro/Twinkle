@@ -11,7 +11,7 @@ import styles from "../styles/index.css"
 
 function App() {
   return (
-    <div>
+    <div styles={{display: "relative"}}>
       <Header/>
       <Banner/>
       <Events/>

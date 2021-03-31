@@ -4,8 +4,9 @@
     box-sizing: border-box;
   }
   html {
-    font-family: 'Poppins', sans-serif;}
-  
+    font-family: ‘Poppins’, sans-serif;
+  }
+
   footer {
     position: fixed;
     text-align: center;
@@ -15,6 +16,6 @@
   }
   
   footer p {
-    font-family: 'Poppins', sans-serif;
-    color: rgb(255, 255, 255);
+    font-family: ‘Poppins’, sans-serif;
+    color: white;
   }
