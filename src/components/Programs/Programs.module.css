@@ -1,0 +1,29 @@
+.sectionContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.programItemsContainer {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    width: 50em;
+    min-width: 25em;
+}
+
+.programButton {
+    width: 10em;
+    border-radius: 0%;
+    padding: 0px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-weight: bolder;
+    margin: 0px 0px;
+}
+
+.programImage {
+    width: inherit;
+}

@@ -6,7 +6,7 @@ import styles from  "./Banner.module.css";
 function Banner() {
     return (
         <div>
-            <div className={styles.bannerContainer}>
+            <div className={styles.sectionContainer}>
                 <div className={styles.banner}>
                     <div className={styles.imageContainer}>
                         <img className={styles.splash} src={Splash} alt="Our Community"/>
